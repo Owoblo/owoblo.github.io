@@ -35,7 +35,7 @@ export const Home = () => {
                 <div className="container max-w-xl">
                     <h2 className="mb-4">Don't let him get away.</h2>
                     <p className="mb-8 font-medium">Don't let another woman become his "dream girl." <br />Don't wonder "what if" for the rest of your life.</p>
-                    <a href="#offer" className="btn w-full md:w-auto text-xl shadow-lg">GET THE SYSTEM ($27)</a>
+                    <a href="#offer" className="btn w-full md:w-auto text-xl shadow-lg">GET THE SYSTEM ($47)</a>
                 </div>
             </div>
         </>

@@ -31,7 +31,7 @@ export const Urgency = () => {
                 <h2 className="text-red-600 mb-6 flex items-center justify-center gap-2">
                     <span>⚠️</span> WARNING: This Offer Ends in 24 Hours
                 </h2>
-                <p>I can only keep this price at $27 for the next 24 hours.</p>
+                <p>I can only keep this price at $47 for the next 24 hours.</p>
                 <p>After that, it goes back to the regular price of <strong>$97</strong>.</p>
                 <div className="bg-white p-4 rounded shadow-sm inline-block my-4 text-left">
                     <p className="font-bold mb-2">For the next 24 hours, you get:</p>
@@ -40,9 +40,10 @@ export const Urgency = () => {
                         <li>✅ The "Get Him Back" text scripts ($47 value)</li>
                         <li>✅ The Obsession Playbook ($37 value)</li>
                         <li>✅ The Red Flag Radar ($27 value)</li>
+                        <li>✅ Priority Email Support ($97 value)</li>
                     </ul>
                     <div className="mt-4 pt-2 border-t text-center font-bold text-xl">
-                        All for just $27.
+                        All for just $47.
                     </div>
                 </div>
                 <p className="font-bold italic">But tomorrow? It's gone.</p>
@@ -107,8 +108,8 @@ export const FinalCTA = () => {
 
                 <div className="bg-white text-gray-900 p-8 rounded-lg shadow-2xl inline-block w-full max-w-md mx-auto">
                     <p className="mb-4 text-sm uppercase font-bold text-gray-500">Instant Digital Access</p>
-                    <a href="#checkout" className="btn w-full block text-2xl py-4 shadow-xl mb-4 animate-pulse">
-                        YES, I WANT ACCESS ($27)
+                    <a href="https://buy.stripe.com/4gMfZgdNZ84Vckpc2f33W03" className="btn w-full block text-2xl py-4 shadow-xl mb-4 animate-pulse" target="_blank" rel="noopener noreferrer">
+                        YES, I WANT ACCESS ($47)
                     </a>
                     <div className="flex justify-center gap-4 text-xs text-gray-400 grayscale opacity-70">
                         <span>🔒 Secure SSL</span>
@@ -118,7 +119,7 @@ export const FinalCTA = () => {
                 </div>
 
                 <div className="mt-12 text-sm opacity-60 max-w-2xl mx-auto border-t border-white/20 pt-8">
-                    <p className="mb-4"><strong className="text-white">P.S.</strong> — Remember, this $27 price disappears in 24 hours. After that, you'll pay full price ($97) or miss out completely. Don't let that happen.</p>
+                    <p className="mb-4"><strong className="text-white">P.S.</strong> — Remember, this $47 price disappears in 24 hours. After that, you'll pay full price ($197) or miss out completely. Don't let that happen.</p>
                     <p><strong className="text-white">P.P.S.</strong> — You're protected by my 60-day guarantee. Use the entire system. If it doesn't work, get your money back. You have nothing to lose and everything to gain.</p>
                 </div>
             </div>

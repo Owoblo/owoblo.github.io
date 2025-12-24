@@ -61,11 +61,21 @@ export const OfferStack = () => {
                             "When to walk away with dignity"
                         ]}
                     />
+                    <BonusItem
+                        title="Priority Email Support"
+                        value="97"
+                        subtitle="Direct access to our expert team for your specific questions."
+                        points={[
+                            "Skip the line response time",
+                            "Personalized situation analysis",
+                            "Peace of mind knowing you have backup"
+                        ]}
+                    />
                 </div>
 
                 <div className="card bg-white text-gray-900 max-w-lg mx-auto text-center border-4 border-yellow-400 transform scale-105 shadow-2xl relative">
                     <div className="absolute -top-4 left-1/2 transform -translate-x-1/2 bg-yellow-400 text-red-900 font-bold px-4 py-1 rounded-full uppercase text-sm tracking-wider shadow-sm">
-                        89% OFF Discount
+                        Total Value: $344
                     </div>
                     <div className="space-y-2 mb-6 pt-4">
                         <div className="flex justify-between border-b border-gray-100 py-2 text-gray-500">
@@ -84,9 +94,13 @@ export const OfferStack = () => {
                             <span>Bonus #3: Red Flag Radar</span>
                             <span className="line-through">$27.00</span>
                         </div>
+                        <div className="flex justify-between border-b border-gray-100 py-2 text-gray-500">
+                            <span>Bonus #4: Priority Support</span>
+                            <span className="line-through">$97.00</span>
+                        </div>
                         <div className="flex justify-between py-2 font-bold text-xl">
                             <span>Total Value</span>
-                            <span>$247.00</span>
+                            <span>$344.00</span>
                         </div>
                     </div>
 
@@ -95,16 +109,16 @@ export const OfferStack = () => {
                         <div className="flex justify-center gap-1 text-2xl font-mono font-bold text-red-600 mb-4 bg-red-50 inline-block px-6 py-2 rounded border border-red-100">
                             <span>00</span><span className="text-gray-400">:</span><span>14</span><span className="text-gray-400">:</span><span>28</span>
                         </div>
-                        <p className="text-gray-500 text-sm uppercase font-bold mb-2">Your Price Today</p>
+                        <p className="text-gray-500 text-sm uppercase font-bold mb-2">My "No-Brainer" Offer</p>
                         <div className="text-6xl font-black text-red-600 tracking-tight">
-                            $27
+                            $47
                         </div>
                         <p className="text-red-500 text-sm mt-2 font-medium animate-pulse">
                             ⚠️ Offer expires in 24 hours
                         </p>
                     </div>
 
-                    <a href="#checkout" className="btn w-full block text-white shadow-red-500/50 hover:shadow-red-500/70">
+                    <a href="https://buy.stripe.com/4gMfZgdNZ84Vckpc2f33W03" className="btn w-full block text-white shadow-red-500/50 hover:shadow-red-500/70" target="_blank" rel="noopener noreferrer">
                         GET INSTANT ACCESS NOW
                     </a>
                 </div>
