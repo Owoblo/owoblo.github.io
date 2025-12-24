@@ -16,7 +16,7 @@ export const Home = () => {
             <div className="section md:py-12 bg-gray-50 text-center">
                 <div className="container">
                     <h2 className="mb-8">Ready to make him obsessed?</h2>
-                    <a href="#offer" className="btn text-xl px-12">Get The System Now</a>
+                    <a href="https://buy.stripe.com/4gMfZgdNZ84Vckpc2f33W03" className="btn text-xl px-12" target="_blank" rel="noopener noreferrer">Get The System Now</a>
                 </div>
             </div>
 
@@ -35,7 +35,7 @@ export const Home = () => {
                 <div className="container max-w-xl">
                     <h2 className="mb-4">Don't let him get away.</h2>
                     <p className="mb-8 font-medium">Don't let another woman become his "dream girl." <br />Don't wonder "what if" for the rest of your life.</p>
-                    <a href="#offer" className="btn w-full md:w-auto text-xl shadow-lg">GET THE SYSTEM ($47)</a>
+                    <a href="https://buy.stripe.com/4gMfZgdNZ84Vckpc2f33W03" className="btn w-full md:w-auto text-xl shadow-lg" target="_blank" rel="noopener noreferrer">GET THE SYSTEM ($47)</a>
                 </div>
             </div>
         </>
